@@ -1,2 +1,2 @@
 # atharva
-this is atharva workshp 
+this is atharva workshop 
